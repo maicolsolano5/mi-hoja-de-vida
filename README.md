@@ -3,7 +3,7 @@ CopiarEditar
 # Mi hoja de vida
 Maicol Stiven Solano Tolosa
 
-maicolsolano5qmgiail.com
+maicolsolano5@gmail.com
 ## Formación académica
 - Bachiller
 - Estudiante de Ingeniería de Sistemas en UNIMINUTO
